@@ -9,7 +9,7 @@ import pandas as pd
 import streamlit as st
 
 import config
-from components import charts, filters, metric_cards
+from components import charts, filters, metric_cards, standards_page
 from services import swim_analytics
 from services.google_sheets_service import SheetReadError, fetch_results_frame
 from utils.validation import extract_spreadsheet_id
@@ -55,7 +55,10 @@ def main() -> None:
     st.sidebar.header("📊 Data Source")
     sheet_url = st.sidebar.text_input(
         "Google Sheet URL",
-        value=st.session_state.get("sheet_url", ""),
+        value=st.session_state.get(
+            "sheet_url",
+            "https://docs.google.com/spreadsheets/d/1PwKtgkpA6aYcydN6Z7tFeuCD9oJ921Ri/edit?usp=drive_link&ouid=114445204783246626437&rtpof=true&sd=true",
+        ),
         placeholder="https://docs.google.com/spreadsheets/d/…",
         help="Share the sheet with 'Anyone with the link – Viewer'.",
     )
@@ -116,30 +119,37 @@ def main() -> None:
         st.info(f"No results found for **{swimmer}** yet. Try another swimmer.")
         return
 
-    filtered = filters.result_filters(swimmer_df)
+    # --- Main navigation ---
+    tab_dashboard, tab_standards = st.tabs(["🏠 Dashboard", "🎯 Motivational Standards"])
 
-    # --- Metrics ---
-    metric_cards.render_metric_cards(swimmer_df, filtered)
-    st.divider()
+    with tab_dashboard:
+        filtered = filters.result_filters(swimmer_df)
 
-    # --- Progression for a selected event ---
-    selection = filters.event_selector(filtered)
-    if selection is not None:
-        stroke, distance, course = selection
-        event_df = filtered[
-            (filtered["stroke"] == stroke)
-            & (filtered["distance"] == distance)
-            & (filtered["course"] == course)
-        ]
-        charts.render_progression_charts(event_df, f"{distance} {stroke} ({course})")
-    else:
-        st.info("No events match the current filters.")
-    st.divider()
+        # --- Metrics ---
+        metric_cards.render_metric_cards(swimmer_df, filtered)
+        st.divider()
 
-    # --- PB table + recent swims ---
-    charts.render_pb_table(swimmer_df)
-    st.divider()
-    charts.render_recent_swims(filtered)
+        # --- Progression for a selected event ---
+        selection = filters.event_selector(filtered)
+        if selection is not None:
+            stroke, distance, course = selection
+            event_df = filtered[
+                (filtered["stroke"] == stroke)
+                & (filtered["distance"] == distance)
+                & (filtered["course"] == course)
+            ]
+            charts.render_progression_charts(event_df, f"{distance} {stroke} ({course})")
+        else:
+            st.info("No events match the current filters.")
+        st.divider()
+
+        # --- PB table + recent swims ---
+        charts.render_pb_table(swimmer_df)
+        st.divider()
+        charts.render_recent_swims(filtered)
+
+    with tab_standards:
+        standards_page.render_standards_page(swimmer_df)
 
     st.caption(
         "Data source: Google Sheets (public link, read-only). "

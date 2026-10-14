@@ -1,0 +1,7739 @@
+{
+  "metadata": {
+    "title": "USA Swimming 2024-2028 Motivational Standards",
+    "source_url": "https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/timesdocuments/time-standards/2025/2028-motivational-standards-age-group.pdf",
+    "source_pdf": "usa_swimming_2024_2028_motivational_standards.pdf",
+    "levels": [
+      "B",
+      "BB",
+      "A",
+      "AA",
+      "AAA",
+      "AAAA"
+    ],
+    "age_groups": [
+      "10 & under",
+      "11-12",
+      "13-14",
+      "15-16",
+      "17-18"
+    ],
+    "extraction_date": "2026-10-14",
+    "document_printed": "10/10/2025",
+    "notes": "Standards are abolished/adjusted by USA Swimming for the 2024-2028 quad. Times in seconds (float). Relay rows (FR-R/MED-R) excluded. Stars in the PDF denote events also on the Scholastic All-America list and are not data."
+  },
+  "records": [
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 55.39,
+        "BB": 49.29,
+        "A": 43.09,
+        "AA": 41.09,
+        "AAA": 38.99,
+        "AAAA": 36.99
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 116.69,
+        "BB": 104.49,
+        "A": 92.29,
+        "AA": 88.19,
+        "AAA": 84.09,
+        "AAAA": 79.99
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 60.89,
+        "BB": 54.39,
+        "A": 47.89,
+        "AA": 45.79,
+        "AAA": 43.59,
+        "AAAA": 41.49
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 132.89,
+        "BB": 119.19,
+        "A": 105.49,
+        "AA": 100.89,
+        "AAA": 96.29,
+        "AAAA": 91.69
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 52.29,
+        "BB": 46.39,
+        "A": 40.59,
+        "AA": 38.59,
+        "AAA": 36.59,
+        "AAAA": 34.69
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 129.49,
+        "BB": 112.89,
+        "A": 96.19,
+        "AA": 90.69,
+        "AAA": 85.09,
+        "AAAA": 79.59
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 43.89,
+        "BB": 39.79,
+        "A": 35.69,
+        "AA": 34.39,
+        "AAA": 32.99,
+        "AAAA": 31.59
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 100.99,
+        "BB": 90.59,
+        "A": 80.19,
+        "AA": 76.69,
+        "AAA": 73.19,
+        "AAAA": 69.79
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 216.69,
+        "BB": 194.99,
+        "A": 173.39,
+        "AA": 166.09,
+        "AAA": 158.89,
+        "AAAA": 151.69
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 458.29,
+        "BB": 412.49,
+        "A": 366.59,
+        "AA": 351.39,
+        "AAA": 336.09,
+        "AAAA": 320.79
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 249.49,
+        "BB": 223.69,
+        "A": 197.89,
+        "AA": 189.39,
+        "AAA": 180.79,
+        "AAAA": 172.19
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 53.39,
+        "BB": 47.39,
+        "A": 41.49,
+        "AA": 39.59,
+        "AAA": 37.59,
+        "AAAA": 35.59
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 111.19,
+        "BB": 99.59,
+        "A": 87.89,
+        "AA": 83.99,
+        "AAA": 80.09,
+        "AAAA": 76.29
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 58.99,
+        "BB": 52.79,
+        "A": 46.49,
+        "AA": 44.39,
+        "AAA": 42.29,
+        "AAAA": 40.19
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 126.09,
+        "BB": 113.09,
+        "A": 100.09,
+        "AA": 95.69,
+        "AAA": 91.39,
+        "AAAA": 86.99
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 51.39,
+        "BB": 45.59,
+        "A": 39.79,
+        "AA": 37.89,
+        "AAA": 35.99,
+        "AAAA": 33.99
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 125.49,
+        "BB": 109.29,
+        "A": 93.19,
+        "AA": 87.79,
+        "AAA": 82.49,
+        "AAAA": 77.09
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 42.19,
+        "BB": 38.19,
+        "A": 34.29,
+        "AA": 32.99,
+        "AAA": 31.69,
+        "AAAA": 30.39
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 97.19,
+        "BB": 87.19,
+        "A": 77.09,
+        "AA": 73.79,
+        "AAA": 70.39,
+        "AAAA": 67.09
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 209.39,
+        "BB": 188.49,
+        "A": 167.49,
+        "AA": 160.59,
+        "AAA": 153.59,
+        "AAAA": 146.59
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 441.19,
+        "BB": 397.09,
+        "A": 352.99,
+        "AA": 338.29,
+        "AAA": 323.59,
+        "AAAA": 308.89
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 110.09,
+        "BB": 99.09,
+        "A": 88.09,
+        "AA": 84.39,
+        "AAA": 80.79,
+        "AAAA": 77.09
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 241.59,
+        "BB": 216.59,
+        "A": 191.69,
+        "AA": 183.39,
+        "AAA": 175.09,
+        "AAAA": 166.69
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 48.29,
+        "BB": 42.89,
+        "A": 37.59,
+        "AA": 35.79,
+        "AAA": 33.99,
+        "AAAA": 32.19
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 100.69,
+        "BB": 90.09,
+        "A": 79.59,
+        "AA": 76.09,
+        "AAA": 72.49,
+        "AAAA": 68.99
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 53.39,
+        "BB": 47.69,
+        "A": 42.09,
+        "AA": 40.19,
+        "AAA": 38.29,
+        "AAAA": 36.39
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 114.09,
+        "BB": 102.29,
+        "A": 90.59,
+        "AA": 86.59,
+        "AAA": 82.69,
+        "AAAA": 78.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 46.49,
+        "BB": 41.29,
+        "A": 35.99,
+        "AA": 34.29,
+        "AAA": 32.59,
+        "AAAA": 30.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 113.49,
+        "BB": 98.99,
+        "A": 84.39,
+        "AA": 79.49,
+        "AAA": 74.59,
+        "AAAA": 69.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 38.19,
+        "BB": 34.59,
+        "A": 31.09,
+        "AA": 29.89,
+        "AAA": 28.69,
+        "AAAA": 27.49
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 87.99,
+        "BB": 78.89,
+        "A": 69.79,
+        "AA": 66.79,
+        "AAA": 63.79,
+        "AAAA": 60.69
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 189.49,
+        "BB": 170.59,
+        "A": 151.59,
+        "AA": 145.29,
+        "AAA": 138.99,
+        "AAAA": 132.69
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 500,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 504.29,
+        "BB": 453.79,
+        "A": 403.39,
+        "AA": 386.59,
+        "AAA": 369.79,
+        "AAAA": 352.99
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 99.69,
+        "BB": 89.69,
+        "A": 79.69,
+        "AA": 76.39,
+        "AAA": 73.09,
+        "AAAA": 69.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 218.59,
+        "BB": 195.99,
+        "A": 173.49,
+        "AA": 165.89,
+        "AAA": 158.39,
+        "AAAA": 150.89
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 55.79,
+        "BB": 49.69,
+        "A": 43.59,
+        "AA": 41.59,
+        "AAA": 39.49,
+        "AAAA": 37.49
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 121.59,
+        "BB": 108.09,
+        "A": 94.59,
+        "AA": 90.09,
+        "AAA": 85.59,
+        "AAAA": 81.09
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 62.19,
+        "BB": 55.49,
+        "A": 48.79,
+        "AA": 46.49,
+        "AAA": 44.29,
+        "AAAA": 42.09
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 139.39,
+        "BB": 123.89,
+        "A": 108.39,
+        "AA": 103.29,
+        "AAA": 98.09,
+        "AAAA": 92.99
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 54.49,
+        "BB": 48.09,
+        "A": 41.59,
+        "AA": 39.49,
+        "AAA": 37.29,
+        "AAAA": 35.19
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 132.79,
+        "BB": 115.39,
+        "A": 97.99,
+        "AA": 92.19,
+        "AAA": 86.39,
+        "AAAA": 80.59
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 45.29,
+        "BB": 40.89,
+        "A": 36.59,
+        "AA": 35.09,
+        "AAA": 33.69,
+        "AAAA": 32.19
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 104.09,
+        "BB": 92.99,
+        "A": 81.89,
+        "AA": 78.19,
+        "AAA": 74.49,
+        "AAAA": 70.79
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 230.99,
+        "BB": 205.69,
+        "A": 180.39,
+        "AA": 171.99,
+        "AAA": 163.49,
+        "AAAA": 155.09
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 468.59,
+        "BB": 421.69,
+        "A": 374.89,
+        "AA": 359.29,
+        "AAA": 343.69,
+        "AAAA": 327.99
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 255.69,
+        "BB": 228.89,
+        "A": 202.09,
+        "AA": 193.09,
+        "AAA": 184.19,
+        "AAAA": 175.29
+      },
+      "page": 8
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 53.69,
+        "BB": 47.79,
+        "A": 41.89,
+        "AA": 39.99,
+        "AAA": 37.99,
+        "AAAA": 36.09
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 116.89,
+        "BB": 103.89,
+        "A": 90.89,
+        "AA": 86.59,
+        "AAA": 82.29,
+        "AAAA": 77.99
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 60.29,
+        "BB": 53.79,
+        "A": 47.29,
+        "AA": 45.09,
+        "AAA": 42.99,
+        "AAAA": 40.79
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 132.89,
+        "BB": 118.19,
+        "A": 103.39,
+        "AA": 98.49,
+        "AAA": 93.59,
+        "AAAA": 88.69
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 53.49,
+        "BB": 47.19,
+        "A": 40.89,
+        "AA": 38.79,
+        "AAA": 36.69,
+        "AAAA": 34.59
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 128.89,
+        "BB": 112.09,
+        "A": 95.19,
+        "AA": 89.49,
+        "AAA": 83.89,
+        "AAAA": 78.29
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 43.99,
+        "BB": 39.79,
+        "A": 35.49,
+        "AA": 34.09,
+        "AAA": 32.69,
+        "AAAA": 31.29
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 100.29,
+        "BB": 89.69,
+        "A": 78.99,
+        "AA": 75.39,
+        "AAA": 71.89,
+        "AAAA": 68.29
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 223.99,
+        "BB": 199.49,
+        "A": 174.99,
+        "AA": 166.79,
+        "AAA": 158.59,
+        "AAAA": 150.39
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 452.19,
+        "BB": 406.89,
+        "A": 361.69,
+        "AA": 346.69,
+        "AAA": 331.59,
+        "AAAA": 316.49
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 115.19,
+        "BB": 102.99,
+        "A": 90.69,
+        "AA": 86.59,
+        "AAA": 82.49,
+        "AAAA": 78.39
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 245.39,
+        "BB": 219.59,
+        "A": 193.89,
+        "AA": 185.29,
+        "AAA": 176.79,
+        "AAAA": 168.19
+      },
+      "page": 4
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 48.59,
+        "BB": 43.29,
+        "A": 37.99,
+        "AA": 36.19,
+        "AAA": 34.39,
+        "AAAA": 32.59
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 105.79,
+        "BB": 93.99,
+        "A": 82.29,
+        "AA": 78.39,
+        "AAA": 74.49,
+        "AAAA": 70.59
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 54.59,
+        "BB": 48.69,
+        "A": 42.79,
+        "AA": 40.89,
+        "AAA": 38.89,
+        "AAAA": 36.89
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 120.29,
+        "BB": 106.89,
+        "A": 93.59,
+        "AA": 89.09,
+        "AAA": 84.69,
+        "AAAA": 80.19
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 48.39,
+        "BB": 42.69,
+        "A": 36.99,
+        "AA": 35.09,
+        "AAA": 33.19,
+        "AAAA": 31.29
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 116.69,
+        "BB": 101.39,
+        "A": 86.09,
+        "AA": 80.99,
+        "AAA": 75.99,
+        "AAAA": 70.89
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 39.79,
+        "BB": 35.99,
+        "A": 32.09,
+        "AA": 30.89,
+        "AAA": 29.59,
+        "AAAA": 28.29
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 90.79,
+        "BB": 81.09,
+        "A": 71.49,
+        "AA": 68.29,
+        "AAA": 64.99,
+        "AAAA": 61.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 202.79,
+        "BB": 180.59,
+        "A": 158.39,
+        "AA": 150.99,
+        "AAA": 143.59,
+        "AAAA": 136.19
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 500,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 516.69,
+        "BB": 465.09,
+        "A": 413.39,
+        "AA": 396.19,
+        "AAA": 378.99,
+        "AAAA": 361.69
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 104.29,
+        "BB": 93.19,
+        "A": 82.09,
+        "AA": 78.39,
+        "AAA": 74.69,
+        "AAAA": 70.99
+      },
+      "page": 1
+    },
+    {
+      "age_group": "10 & under",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 222.09,
+        "BB": 198.79,
+        "A": 175.49,
+        "AA": 167.69,
+        "AAA": 159.99,
+        "AAAA": 152.19
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 44.49,
+        "BB": 41.09,
+        "A": 37.69,
+        "AA": 35.99,
+        "AAA": 34.29,
+        "AAAA": 32.59
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 97.19,
+        "BB": 89.59,
+        "A": 81.89,
+        "AA": 78.09,
+        "AAA": 74.29,
+        "AAAA": 70.39
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 202.99,
+        "BB": 188.49,
+        "A": 173.99,
+        "AA": 166.69,
+        "AAA": 159.49,
+        "AAAA": 152.19
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 49.79,
+        "BB": 45.89,
+        "A": 41.99,
+        "AA": 39.99,
+        "AAA": 38.09,
+        "AAAA": 36.09
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 107.79,
+        "BB": 99.59,
+        "A": 91.29,
+        "AA": 87.19,
+        "AAA": 83.09,
+        "AAAA": 78.99
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 227.89,
+        "BB": 211.59,
+        "A": 195.39,
+        "AA": 187.19,
+        "AAA": 179.09,
+        "AAAA": 170.99
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 41.99,
+        "BB": 38.69,
+        "A": 35.29,
+        "AA": 33.59,
+        "AAA": 31.99,
+        "AAAA": 30.29
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 95.09,
+        "BB": 87.29,
+        "A": 79.49,
+        "AA": 75.59,
+        "AAA": 71.69,
+        "AAAA": 67.79
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 204.79,
+        "BB": 190.19,
+        "A": 175.59,
+        "AA": 168.29,
+        "AAA": 160.89,
+        "AAAA": 153.59
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 37.39,
+        "BB": 34.79,
+        "A": 32.09,
+        "AA": 30.69,
+        "AAA": 29.39,
+        "AAAA": 28.09
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 82.09,
+        "BB": 76.19,
+        "A": 70.39,
+        "AA": 67.49,
+        "AAA": 64.49,
+        "AAAA": 61.59
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 179.19,
+        "BB": 166.39,
+        "A": 153.59,
+        "AA": 147.19,
+        "AAA": 140.79,
+        "AAAA": 134.39
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 381.09,
+        "BB": 353.89,
+        "A": 326.69,
+        "AA": 313.09,
+        "AAA": 299.49,
+        "AAAA": 285.89
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 800.19,
+        "BB": 742.99,
+        "A": 685.89,
+        "AA": 657.29,
+        "AAA": 628.69,
+        "AAAA": 600.09
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 1551.79,
+        "BB": 1440.99,
+        "A": 1330.19,
+        "AA": 1274.69,
+        "AAA": 1219.29,
+        "AAAA": 1163.89
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 204.39,
+        "BB": 188.99,
+        "A": 173.69,
+        "AA": 165.99,
+        "AAA": 158.29,
+        "AAAA": 150.59
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 437.89,
+        "BB": 406.59,
+        "A": 375.39,
+        "AA": 359.69,
+        "AAA": 344.09,
+        "AAAA": 328.39
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 42.59,
+        "BB": 39.29,
+        "A": 36.09,
+        "AA": 34.49,
+        "AAA": 32.79,
+        "AAAA": 31.19
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 90.79,
+        "BB": 83.69,
+        "A": 76.49,
+        "AA": 72.89,
+        "AAA": 69.39,
+        "AAAA": 65.79
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 190.99,
+        "BB": 177.39,
+        "A": 163.69,
+        "AA": 156.89,
+        "AAA": 150.09,
+        "AAAA": 143.29
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 48.09,
+        "BB": 44.29,
+        "A": 40.49,
+        "AA": 38.59,
+        "AAA": 36.69,
+        "AAAA": 34.89
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 102.29,
+        "BB": 94.49,
+        "A": 86.69,
+        "AA": 82.79,
+        "AAA": 78.89,
+        "AAAA": 74.99
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 217.09,
+        "BB": 201.59,
+        "A": 186.09,
+        "AA": 178.29,
+        "AAA": 170.59,
+        "AAAA": 162.79
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 40.99,
+        "BB": 37.69,
+        "A": 34.49,
+        "AA": 32.79,
+        "AAA": 31.19,
+        "AAAA": 29.59
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 91.59,
+        "BB": 84.09,
+        "A": 76.49,
+        "AA": 72.79,
+        "AAA": 68.99,
+        "AAAA": 65.29
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 195.09,
+        "BB": 181.19,
+        "A": 167.19,
+        "AA": 160.29,
+        "AAA": 153.29,
+        "AAAA": 146.29
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 36.29,
+        "BB": 33.69,
+        "A": 31.09,
+        "AA": 29.79,
+        "AAA": 28.49,
+        "AAAA": 27.19
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 78.99,
+        "BB": 73.29,
+        "A": 67.69,
+        "AA": 64.89,
+        "AAA": 62.09,
+        "AAAA": 59.19
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 172.39,
+        "BB": 160.09,
+        "A": 147.79,
+        "AA": 141.59,
+        "AAA": 135.49,
+        "AAAA": 129.29
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 367.49,
+        "BB": 341.19,
+        "A": 314.99,
+        "AA": 301.79,
+        "AAA": 288.69,
+        "AAAA": 275.59
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 773.09,
+        "BB": 717.89,
+        "A": 662.59,
+        "AA": 634.99,
+        "AAA": 607.39,
+        "AAAA": 579.79
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 1458.89,
+        "BB": 1354.69,
+        "A": 1250.49,
+        "AA": 1198.39,
+        "AAA": 1146.29,
+        "AAAA": 1094.19
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 90.49,
+        "BB": 83.89,
+        "A": 77.29,
+        "AA": 73.99,
+        "AAA": 70.69,
+        "AAAA": 67.49
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 198.09,
+        "BB": 183.19,
+        "A": 168.29,
+        "AA": 160.89,
+        "AAA": 153.39,
+        "AAAA": 145.99
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 416.69,
+        "BB": 386.89,
+        "A": 357.19,
+        "AA": 342.29,
+        "AAA": 327.39,
+        "AAAA": 312.49
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 38.49,
+        "BB": 35.59,
+        "A": 32.69,
+        "AA": 31.19,
+        "AAA": 29.69,
+        "AAAA": 28.19
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 82.19,
+        "BB": 75.69,
+        "A": 69.29,
+        "AA": 65.99,
+        "AAA": 62.79,
+        "AAAA": 59.49
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 172.89,
+        "BB": 160.49,
+        "A": 148.19,
+        "AA": 141.99,
+        "AAA": 135.89,
+        "AAAA": 129.69
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 43.49,
+        "BB": 40.09,
+        "A": 36.69,
+        "AA": 34.99,
+        "AAA": 33.29,
+        "AAAA": 31.49
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 92.59,
+        "BB": 85.49,
+        "A": 78.39,
+        "AA": 74.89,
+        "AAA": 71.39,
+        "AAAA": 67.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 196.39,
+        "BB": 182.39,
+        "A": 168.39,
+        "AA": 161.39,
+        "AAA": 154.39,
+        "AAAA": 147.29
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 37.09,
+        "BB": 34.19,
+        "A": 31.19,
+        "AA": 29.69,
+        "AAA": 28.19,
+        "AAAA": 26.69
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 82.89,
+        "BB": 76.09,
+        "A": 69.29,
+        "AA": 65.89,
+        "AAA": 62.49,
+        "AAAA": 59.09
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 176.59,
+        "BB": 163.99,
+        "A": 151.39,
+        "AA": 144.99,
+        "AAA": 138.69,
+        "AAAA": 132.39
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 32.79,
+        "BB": 30.49,
+        "A": 28.09,
+        "AA": 26.99,
+        "AAA": 25.79,
+        "AAAA": 24.59
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 71.49,
+        "BB": 66.39,
+        "A": 61.29,
+        "AA": 58.69,
+        "AAA": 56.19,
+        "AAAA": 53.59
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 155.99,
+        "BB": 144.89,
+        "A": 133.69,
+        "AA": 128.19,
+        "AAA": 122.59,
+        "AAAA": 116.99
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 500,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 419.89,
+        "BB": 389.99,
+        "A": 359.99,
+        "AA": 344.99,
+        "AAA": 329.99,
+        "AAAA": 314.99
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 1000,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 883.49,
+        "BB": 820.39,
+        "A": 757.29,
+        "AA": 725.79,
+        "AAA": 694.19,
+        "AAAA": 662.59
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 1650,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 1467.69,
+        "BB": 1362.89,
+        "A": 1258.09,
+        "AA": 1205.59,
+        "AAA": 1153.19,
+        "AAAA": 1100.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 81.89,
+        "BB": 75.89,
+        "A": 69.99,
+        "AA": 66.99,
+        "AAA": 63.99,
+        "AAAA": 61.09
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 179.29,
+        "BB": 165.79,
+        "A": 152.29,
+        "AA": 145.59,
+        "AAA": 138.79,
+        "AAAA": 132.09
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 377.09,
+        "BB": 350.09,
+        "A": 323.19,
+        "AA": 309.79,
+        "AAA": 296.29,
+        "AAAA": 282.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 44.79,
+        "BB": 41.59,
+        "A": 38.39,
+        "AA": 36.79,
+        "AAA": 35.19,
+        "AAAA": 33.59
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 100.59,
+        "BB": 92.69,
+        "A": 84.79,
+        "AA": 80.79,
+        "AAA": 76.89,
+        "AAAA": 72.89
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 208.09,
+        "BB": 193.29,
+        "A": 178.39,
+        "AA": 170.99,
+        "AAA": 163.49,
+        "AAAA": 156.09
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 49.79,
+        "BB": 46.19,
+        "A": 42.69,
+        "AA": 40.89,
+        "AAA": 39.09,
+        "AAAA": 37.39
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 110.39,
+        "BB": 102.19,
+        "A": 93.99,
+        "AA": 89.99,
+        "AAA": 85.89,
+        "AAAA": 81.79
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 236.79,
+        "BB": 219.89,
+        "A": 202.99,
+        "AA": 194.49,
+        "AAA": 186.09,
+        "AAAA": 177.59
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 41.79,
+        "BB": 38.79,
+        "A": 35.79,
+        "AA": 34.29,
+        "AAA": 32.89,
+        "AAAA": 31.39
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 98.29,
+        "BB": 90.49,
+        "A": 82.59,
+        "AA": 78.69,
+        "AAA": 74.79,
+        "AAAA": 70.79
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 211.09,
+        "BB": 195.99,
+        "A": 180.89,
+        "AA": 173.39,
+        "AAA": 165.89,
+        "AAAA": 158.29
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 38.49,
+        "BB": 35.89,
+        "A": 33.19,
+        "AA": 31.89,
+        "AAA": 30.49,
+        "AAAA": 29.19
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 85.59,
+        "BB": 79.49,
+        "A": 73.39,
+        "AA": 70.29,
+        "AAA": 67.19,
+        "AAAA": 64.19
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 186.39,
+        "BB": 173.09,
+        "A": 159.79,
+        "AA": 153.09,
+        "AAA": 146.49,
+        "AAAA": 139.79
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 392.89,
+        "BB": 364.79,
+        "A": 336.79,
+        "AA": 322.79,
+        "AAA": 308.69,
+        "AAAA": 294.69
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 821.59,
+        "BB": 762.89,
+        "A": 704.19,
+        "AA": 674.89,
+        "AAA": 645.49,
+        "AAAA": 616.19
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 1566.89,
+        "BB": 1454.99,
+        "A": 1342.99,
+        "AA": 1287.09,
+        "AAA": 1231.09,
+        "AAAA": 1175.19
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 210.59,
+        "BB": 195.59,
+        "A": 180.59,
+        "AA": 172.99,
+        "AAA": 165.49,
+        "AAAA": 157.99
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 448.89,
+        "BB": 416.79,
+        "A": 384.79,
+        "AA": 368.69,
+        "AAA": 352.69,
+        "AAAA": 336.69
+      },
+      "page": 9
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 42.79,
+        "BB": 39.79,
+        "A": 36.69,
+        "AA": 35.19,
+        "AAA": 33.59,
+        "AAAA": 32.09
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 95.69,
+        "BB": 88.19,
+        "A": 80.59,
+        "AA": 76.89,
+        "AAA": 73.09,
+        "AAAA": 69.29
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 198.29,
+        "BB": 184.19,
+        "A": 169.99,
+        "AA": 162.89,
+        "AAA": 155.79,
+        "AAAA": 148.79
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 48.59,
+        "BB": 45.19,
+        "A": 41.69,
+        "AA": 39.89,
+        "AAA": 38.19,
+        "AAAA": 36.49
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 106.59,
+        "BB": 98.69,
+        "A": 90.79,
+        "AA": 86.89,
+        "AAA": 82.99,
+        "AAAA": 78.99
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 227.29,
+        "BB": 211.09,
+        "A": 194.89,
+        "AA": 186.69,
+        "AAA": 178.59,
+        "AAAA": 170.49
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 40.79,
+        "BB": 37.79,
+        "A": 34.89,
+        "AA": 33.49,
+        "AAA": 31.99,
+        "AAAA": 30.59
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 94.79,
+        "BB": 87.19,
+        "A": 79.59,
+        "AA": 75.79,
+        "AAA": 72.09,
+        "AAAA": 68.29
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 202.59,
+        "BB": 188.19,
+        "A": 173.69,
+        "AA": 166.49,
+        "AAA": 159.19,
+        "AAAA": 151.99
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 37.59,
+        "BB": 34.99,
+        "A": 32.39,
+        "AA": 31.09,
+        "AAA": 29.79,
+        "AAAA": 28.49
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 82.49,
+        "BB": 76.59,
+        "A": 70.69,
+        "AA": 67.79,
+        "AAA": 64.89,
+        "AAAA": 61.89
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 179.59,
+        "BB": 166.79,
+        "A": 153.99,
+        "AA": 147.59,
+        "AAA": 141.09,
+        "AAAA": 134.69
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 382.29,
+        "BB": 354.99,
+        "A": 327.69,
+        "AA": 314.09,
+        "AAA": 300.39,
+        "AAAA": 286.79
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 789.89,
+        "BB": 733.49,
+        "A": 676.99,
+        "AA": 648.79,
+        "AAA": 620.59,
+        "AAAA": 592.39
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 1498.39,
+        "BB": 1391.29,
+        "A": 1284.29,
+        "AA": 1230.79,
+        "AAA": 1177.29,
+        "AAAA": 1123.79
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 94.19,
+        "BB": 87.49,
+        "A": 80.69,
+        "AA": 77.39,
+        "AAA": 73.99,
+        "AAAA": 70.59
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 203.19,
+        "BB": 188.69,
+        "A": 174.19,
+        "AA": 166.89,
+        "AAA": 159.59,
+        "AAAA": 152.39
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 432.79,
+        "BB": 401.89,
+        "A": 370.99,
+        "AA": 355.59,
+        "AAA": 340.09,
+        "AAAA": 324.59
+      },
+      "page": 5
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 38.79,
+        "BB": 35.99,
+        "A": 33.19,
+        "AA": 31.79,
+        "AAA": 30.49,
+        "AAAA": 29.09
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 86.59,
+        "BB": 79.79,
+        "A": 72.99,
+        "AA": 69.59,
+        "AAA": 66.19,
+        "AAAA": 62.69
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 179.49,
+        "BB": 166.69,
+        "A": 153.89,
+        "AA": 147.49,
+        "AAA": 140.99,
+        "AAAA": 134.59
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 43.99,
+        "BB": 40.89,
+        "A": 37.69,
+        "AA": 36.19,
+        "AAA": 34.59,
+        "AAAA": 32.99
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 96.49,
+        "BB": 89.29,
+        "A": 82.19,
+        "AA": 78.59,
+        "AAA": 75.09,
+        "AAAA": 71.49
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 205.69,
+        "BB": 190.99,
+        "A": 176.29,
+        "AA": 168.99,
+        "AAA": 161.69,
+        "AAAA": 154.29
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 36.89,
+        "BB": 34.29,
+        "A": 31.59,
+        "AA": 30.29,
+        "AAA": 28.99,
+        "AAAA": 27.69
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 85.79,
+        "BB": 78.89,
+        "A": 72.09,
+        "AA": 68.59,
+        "AAA": 65.19,
+        "AAAA": 61.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 183.39,
+        "BB": 170.29,
+        "A": 157.19,
+        "AA": 150.59,
+        "AAA": 144.09,
+        "AAAA": 137.59
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 33.99,
+        "BB": 31.69,
+        "A": 29.29,
+        "AA": 28.09,
+        "AAA": 26.99,
+        "AAAA": 25.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 74.69,
+        "BB": 69.39,
+        "A": 63.99,
+        "AA": 61.39,
+        "AAA": 58.69,
+        "AAAA": 55.99
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 162.59,
+        "BB": 150.89,
+        "A": 139.29,
+        "AA": 133.49,
+        "AAA": 127.69,
+        "AAAA": 121.89
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 500,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 436.89,
+        "BB": 405.69,
+        "A": 374.49,
+        "AA": 358.89,
+        "AAA": 343.29,
+        "AAAA": 327.69
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 1000,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 902.69,
+        "BB": 838.19,
+        "A": 773.79,
+        "AA": 741.49,
+        "AAA": 709.29,
+        "AAAA": 676.99
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 1650,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 1507.39,
+        "BB": 1399.69,
+        "A": 1292.09,
+        "AA": 1238.19,
+        "AAA": 1184.39,
+        "AAAA": 1130.59
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 85.19,
+        "BB": 79.09,
+        "A": 73.09,
+        "AA": 69.99,
+        "AAA": 66.99,
+        "AAAA": 63.89
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 183.89,
+        "BB": 170.69,
+        "A": 157.59,
+        "AA": 150.99,
+        "AAA": 144.49,
+        "AAAA": 137.89
+      },
+      "page": 1
+    },
+    {
+      "age_group": "11-12",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 391.69,
+        "BB": 363.69,
+        "A": 335.79,
+        "AA": 321.79,
+        "AAA": 307.79,
+        "AAAA": 293.79
+      },
+      "page": 1
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 39.49,
+        "BB": 36.69,
+        "A": 33.89,
+        "AA": 32.49,
+        "AAA": 31.09,
+        "AAAA": 29.69
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 83.69,
+        "BB": 77.69,
+        "A": 71.69,
+        "AA": 68.69,
+        "AAA": 65.79,
+        "AAAA": 62.79
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 181.79,
+        "BB": 168.79,
+        "A": 155.79,
+        "AA": 149.29,
+        "AAA": 142.79,
+        "AAAA": 136.29
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 43.99,
+        "BB": 40.89,
+        "A": 37.69,
+        "AA": 36.19,
+        "AAA": 34.59,
+        "AAAA": 32.99
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 93.79,
+        "BB": 87.09,
+        "A": 80.39,
+        "AA": 76.99,
+        "AAA": 73.69,
+        "AAAA": 70.29
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 202.79,
+        "BB": 188.29,
+        "A": 173.79,
+        "AA": 166.59,
+        "AAA": 159.39,
+        "AAAA": 152.09
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 37.29,
+        "BB": 34.59,
+        "A": 31.89,
+        "AA": 30.59,
+        "AAA": 29.29,
+        "AAAA": 27.99
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 80.29,
+        "BB": 74.59,
+        "A": 68.89,
+        "AA": 65.99,
+        "AAA": 63.09,
+        "AAAA": 60.29
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 179.69,
+        "BB": 166.79,
+        "A": 153.99,
+        "AA": 147.59,
+        "AAA": 141.19,
+        "AAAA": 134.79
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 34.29,
+        "BB": 31.79,
+        "A": 29.39,
+        "AA": 28.19,
+        "AAA": 26.89,
+        "AAAA": 25.69
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 75.09,
+        "BB": 69.79,
+        "A": 64.39,
+        "AA": 61.69,
+        "AAA": 58.99,
+        "AAAA": 56.39
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 163.99,
+        "BB": 152.29,
+        "A": 140.59,
+        "AA": 134.69,
+        "AAA": 128.89,
+        "AAAA": 122.99
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 348.39,
+        "BB": 323.49,
+        "A": 298.69,
+        "AA": 286.19,
+        "AAA": 273.79,
+        "AAAA": 261.29
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 720.59,
+        "BB": 669.19,
+        "A": 617.69,
+        "AA": 591.99,
+        "AAA": 566.19,
+        "AAAA": 540.49
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 1384.59,
+        "BB": 1285.69,
+        "A": 1186.79,
+        "AA": 1137.39,
+        "AAA": 1087.89,
+        "AAAA": 1038.49
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 182.89,
+        "BB": 169.79,
+        "A": 156.69,
+        "AA": 150.19,
+        "AAA": 143.69,
+        "AAAA": 137.19
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 390.69,
+        "BB": 362.79,
+        "A": 334.89,
+        "AA": 320.89,
+        "AAA": 306.99,
+        "AAAA": 292.99
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 37.19,
+        "BB": 34.59,
+        "A": 31.89,
+        "AA": 30.59,
+        "AAA": 29.19,
+        "AAAA": 27.89
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 78.79,
+        "BB": 73.09,
+        "A": 67.49,
+        "AA": 64.69,
+        "AAA": 61.89,
+        "AAAA": 59.09
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 170.99,
+        "BB": 158.69,
+        "A": 146.49,
+        "AA": 140.39,
+        "AAA": 134.29,
+        "AAAA": 128.19
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 42.59,
+        "BB": 39.59,
+        "A": 36.49,
+        "AA": 34.99,
+        "AAA": 33.49,
+        "AAAA": 31.99
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 88.99,
+        "BB": 82.59,
+        "A": 76.29,
+        "AA": 73.09,
+        "AAA": 69.89,
+        "AAAA": 66.79
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 193.19,
+        "BB": 179.39,
+        "A": 165.59,
+        "AA": 158.69,
+        "AAA": 151.79,
+        "AAAA": 144.89
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 36.59,
+        "BB": 33.99,
+        "A": 31.39,
+        "AA": 30.09,
+        "AAA": 28.79,
+        "AAAA": 27.49
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 77.89,
+        "BB": 72.29,
+        "A": 66.79,
+        "AA": 63.99,
+        "AAA": 61.19,
+        "AAAA": 58.39
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 173.29,
+        "BB": 160.89,
+        "A": 148.49,
+        "AA": 142.39,
+        "AAA": 136.19,
+        "AAAA": 129.99
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 32.99,
+        "BB": 30.69,
+        "A": 28.29,
+        "AA": 27.09,
+        "AAA": 25.89,
+        "AAAA": 24.79
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 71.79,
+        "BB": 66.69,
+        "A": 61.49,
+        "AA": 58.99,
+        "AAA": 56.39,
+        "AAAA": 53.89
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 157.49,
+        "BB": 146.19,
+        "A": 134.99,
+        "AA": 129.39,
+        "AAA": 123.69,
+        "AAAA": 118.09
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 337.49,
+        "BB": 313.39,
+        "A": 289.29,
+        "AA": 277.29,
+        "AAA": 265.19,
+        "AAAA": 253.19
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 698.19,
+        "BB": 648.39,
+        "A": 598.49,
+        "AA": 573.59,
+        "AAA": 548.59,
+        "AAAA": 523.69
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 1334.89,
+        "BB": 1239.49,
+        "A": 1144.19,
+        "AA": 1096.49,
+        "AAA": 1048.79,
+        "AAAA": 1001.19
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 174.49,
+        "BB": 162.09,
+        "A": 149.59,
+        "AA": 143.39,
+        "AAA": 137.09,
+        "AAAA": 130.89
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 373.19,
+        "BB": 346.49,
+        "A": 319.89,
+        "AA": 306.49,
+        "AAA": 293.19,
+        "AAAA": 279.89
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 33.69,
+        "BB": 31.29,
+        "A": 28.89,
+        "AA": 27.69,
+        "AAA": 26.49,
+        "AAAA": 25.29
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 71.29,
+        "BB": 66.19,
+        "A": 61.09,
+        "AA": 58.59,
+        "AAA": 55.99,
+        "AAAA": 53.49
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 154.69,
+        "BB": 143.69,
+        "A": 132.59,
+        "AA": 127.09,
+        "AAA": 121.59,
+        "AAAA": 115.99
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 38.59,
+        "BB": 35.79,
+        "A": 33.09,
+        "AA": 31.69,
+        "AAA": 30.29,
+        "AAAA": 28.89
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 80.49,
+        "BB": 74.79,
+        "A": 68.99,
+        "AA": 66.19,
+        "AAA": 63.29,
+        "AAAA": 60.39
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 174.89,
+        "BB": 162.39,
+        "A": 149.89,
+        "AA": 143.59,
+        "AAA": 137.39,
+        "AAAA": 131.19
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 33.19,
+        "BB": 30.79,
+        "A": 28.39,
+        "AA": 27.19,
+        "AAA": 26.09,
+        "AAAA": 24.89
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 70.49,
+        "BB": 65.49,
+        "A": 60.39,
+        "AA": 57.89,
+        "AAA": 55.39,
+        "AAAA": 52.89
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 156.79,
+        "BB": 145.59,
+        "A": 134.39,
+        "AA": 128.79,
+        "AAA": 123.19,
+        "AAAA": 117.59
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 29.89,
+        "BB": 27.69,
+        "A": 25.59,
+        "AA": 24.59,
+        "AAA": 23.49,
+        "AAAA": 22.39
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 64.99,
+        "BB": 60.29,
+        "A": 55.69,
+        "AA": 53.39,
+        "AAA": 51.09,
+        "AAAA": 48.69
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 142.49,
+        "BB": 132.29,
+        "A": 122.19,
+        "AA": 117.09,
+        "AAA": 111.99,
+        "AAAA": 106.89
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 500,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 385.69,
+        "BB": 358.19,
+        "A": 330.59,
+        "AA": 316.89,
+        "AAA": 303.09,
+        "AAAA": 289.29
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 1000,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 797.99,
+        "BB": 740.99,
+        "A": 683.99,
+        "AA": 655.49,
+        "AAA": 626.99,
+        "AAAA": 598.49
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 1650,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 1342.89,
+        "BB": 1246.99,
+        "A": 1151.09,
+        "AA": 1103.09,
+        "AAA": 1055.19,
+        "AAAA": 1007.19
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 157.99,
+        "BB": 146.69,
+        "A": 135.39,
+        "AA": 129.79,
+        "AAA": 124.09,
+        "AAAA": 118.49
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 337.69,
+        "BB": 313.59,
+        "A": 289.49,
+        "AA": 277.39,
+        "AAA": 265.39,
+        "AAAA": 253.29
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 42.59,
+        "BB": 39.49,
+        "A": 36.49,
+        "AA": 34.99,
+        "AAA": 33.49,
+        "AAAA": 31.89
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 89.69,
+        "BB": 83.29,
+        "A": 76.89,
+        "AA": 73.69,
+        "AAA": 70.49,
+        "AAAA": 67.29
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 193.29,
+        "BB": 179.49,
+        "A": 165.69,
+        "AA": 158.79,
+        "AAA": 151.89,
+        "AAAA": 144.99
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 47.79,
+        "BB": 44.39,
+        "A": 40.99,
+        "AA": 39.29,
+        "AAA": 37.59,
+        "AAAA": 35.89
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 102.39,
+        "BB": 94.99,
+        "A": 87.69,
+        "AA": 84.09,
+        "AAA": 80.39,
+        "AAAA": 76.79
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 220.29,
+        "BB": 204.59,
+        "A": 188.89,
+        "AA": 180.99,
+        "AAA": 173.09,
+        "AAAA": 165.29
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 39.99,
+        "BB": 37.09,
+        "A": 34.29,
+        "AA": 32.79,
+        "AAA": 31.39,
+        "AAAA": 29.99
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 87.19,
+        "BB": 80.99,
+        "A": 74.79,
+        "AA": 71.69,
+        "AAA": 68.59,
+        "AAAA": 65.39
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 195.69,
+        "BB": 181.69,
+        "A": 167.79,
+        "AA": 160.79,
+        "AAA": 153.79,
+        "AAAA": 146.79
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 37.19,
+        "BB": 34.59,
+        "A": 31.89,
+        "AA": 30.59,
+        "AAA": 29.29,
+        "AAAA": 27.89
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 81.19,
+        "BB": 75.39,
+        "A": 69.59,
+        "AA": 66.69,
+        "AAA": 63.79,
+        "AAAA": 60.89
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 175.29,
+        "BB": 162.79,
+        "A": 150.29,
+        "AA": 143.99,
+        "AAA": 137.79,
+        "AAAA": 131.49
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 368.09,
+        "BB": 341.79,
+        "A": 315.49,
+        "AA": 302.39,
+        "AAA": 289.19,
+        "AAAA": 276.09
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 765.49,
+        "BB": 710.79,
+        "A": 656.09,
+        "AA": 628.79,
+        "AAA": 601.49,
+        "AAAA": 574.09
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 1468.39,
+        "BB": 1363.49,
+        "A": 1258.59,
+        "AA": 1206.19,
+        "AAA": 1153.69,
+        "AAAA": 1101.29
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 197.19,
+        "BB": 183.09,
+        "A": 168.99,
+        "AA": 161.99,
+        "AAA": 154.89,
+        "AAAA": 147.89
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 417.99,
+        "BB": 388.19,
+        "A": 358.29,
+        "AA": 343.39,
+        "AAA": 328.39,
+        "AAAA": 313.49
+      },
+      "page": 10
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 39.99,
+        "BB": 37.19,
+        "A": 34.29,
+        "AA": 32.89,
+        "AAA": 31.49,
+        "AAAA": 29.99
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 84.99,
+        "BB": 78.89,
+        "A": 72.89,
+        "AA": 69.79,
+        "AAA": 66.79,
+        "AAAA": 63.79
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 183.89,
+        "BB": 170.69,
+        "A": 157.59,
+        "AA": 150.99,
+        "AAA": 144.49,
+        "AAAA": 137.89
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 46.49,
+        "BB": 43.19,
+        "A": 39.89,
+        "AA": 38.19,
+        "AAA": 36.49,
+        "AAAA": 34.89
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 97.99,
+        "BB": 90.99,
+        "A": 83.99,
+        "AA": 80.49,
+        "AAA": 76.99,
+        "AAAA": 73.49
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 211.09,
+        "BB": 195.99,
+        "A": 180.89,
+        "AA": 173.39,
+        "AAA": 165.89,
+        "AAAA": 158.29
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 39.59,
+        "BB": 36.79,
+        "A": 33.89,
+        "AA": 32.49,
+        "AAA": 31.09,
+        "AAAA": 29.69
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 84.89,
+        "BB": 78.79,
+        "A": 72.79,
+        "AA": 69.69,
+        "AAA": 66.69,
+        "AAAA": 63.69
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 189.19,
+        "BB": 175.69,
+        "A": 162.19,
+        "AA": 155.39,
+        "AAA": 148.59,
+        "AAAA": 141.89
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 35.99,
+        "BB": 33.39,
+        "A": 30.79,
+        "AA": 29.49,
+        "AAA": 28.29,
+        "AAAA": 26.99
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 78.49,
+        "BB": 72.89,
+        "A": 67.29,
+        "AA": 64.49,
+        "AAA": 61.69,
+        "AAAA": 58.89
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 169.79,
+        "BB": 157.69,
+        "A": 145.49,
+        "AA": 139.49,
+        "AAA": 133.39,
+        "AAAA": 127.29
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 360.69,
+        "BB": 334.99,
+        "A": 309.19,
+        "AA": 296.29,
+        "AAA": 283.39,
+        "AAAA": 270.59
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 744.69,
+        "BB": 691.49,
+        "A": 638.29,
+        "AA": 611.69,
+        "AAA": 585.09,
+        "AAAA": 558.49
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 1414.29,
+        "BB": 1313.29,
+        "A": 1212.29,
+        "AA": 1161.79,
+        "AAA": 1111.29,
+        "AAAA": 1060.79
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 189.79,
+        "BB": 176.19,
+        "A": 162.69,
+        "AA": 155.89,
+        "AAA": 149.09,
+        "AAAA": 142.39
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 404.19,
+        "BB": 375.29,
+        "A": 346.39,
+        "AA": 331.99,
+        "AAA": 317.59,
+        "AAAA": 303.09
+      },
+      "page": 6
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 36.19,
+        "BB": 33.69,
+        "A": 31.09,
+        "AA": 29.79,
+        "AAA": 28.49,
+        "AAAA": 27.19
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 76.89,
+        "BB": 71.39,
+        "A": 65.89,
+        "AA": 63.19,
+        "AAA": 60.49,
+        "AAAA": 57.69
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 166.39,
+        "BB": 154.49,
+        "A": 142.59,
+        "AA": 136.69,
+        "AAA": 130.69,
+        "AAAA": 124.79
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 42.09,
+        "BB": 39.09,
+        "A": 36.09,
+        "AA": 34.59,
+        "AAA": 33.09,
+        "AAAA": 31.59
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 88.69,
+        "BB": 82.29,
+        "A": 75.99,
+        "AA": 72.89,
+        "AAA": 69.69,
+        "AAAA": 66.49
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 190.99,
+        "BB": 177.39,
+        "A": 163.79,
+        "AA": 156.89,
+        "AAA": 150.09,
+        "AAAA": 143.29
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 35.79,
+        "BB": 33.29,
+        "A": 30.69,
+        "AA": 29.39,
+        "AAA": 28.19,
+        "AAAA": 26.89
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 76.79,
+        "BB": 71.29,
+        "A": 65.89,
+        "AA": 63.09,
+        "AAA": 60.39,
+        "AAAA": 57.59
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 171.19,
+        "BB": 158.99,
+        "A": 146.69,
+        "AA": 140.59,
+        "AAA": 134.49,
+        "AAAA": 128.39
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 32.49,
+        "BB": 30.19,
+        "A": 27.89,
+        "AA": 26.69,
+        "AAA": 25.59,
+        "AAAA": 24.39
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 70.99,
+        "BB": 65.89,
+        "A": 60.89,
+        "AA": 58.29,
+        "AAA": 55.79,
+        "AAAA": 53.29
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 153.59,
+        "BB": 142.69,
+        "A": 131.69,
+        "AA": 126.19,
+        "AAA": 120.69,
+        "AAAA": 115.29
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 500,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 412.19,
+        "BB": 382.79,
+        "A": 353.39,
+        "AA": 338.59,
+        "AAA": 323.89,
+        "AAAA": 309.19
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 1000,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 851.09,
+        "BB": 790.29,
+        "A": 729.49,
+        "AA": 699.09,
+        "AAA": 668.69,
+        "AAAA": 638.29
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 1650,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 1422.89,
+        "BB": 1321.19,
+        "A": 1219.59,
+        "AA": 1168.79,
+        "AAA": 1117.99,
+        "AAAA": 1067.19
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 171.79,
+        "BB": 159.49,
+        "A": 147.19,
+        "AA": 141.09,
+        "AAA": 134.99,
+        "AAAA": 128.79
+      },
+      "page": 2
+    },
+    {
+      "age_group": "13-14",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 365.79,
+        "BB": 339.69,
+        "A": 313.49,
+        "AA": 300.49,
+        "AAA": 287.39,
+        "AAAA": 274.29
+      },
+      "page": 2
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 37.79,
+        "BB": 35.09,
+        "A": 32.39,
+        "AA": 31.09,
+        "AAA": 29.69,
+        "AAAA": 28.39
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 79.39,
+        "BB": 73.69,
+        "A": 67.99,
+        "AA": 65.19,
+        "AAA": 62.39,
+        "AAAA": 59.49
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 172.29,
+        "BB": 159.99,
+        "A": 147.69,
+        "AA": 141.49,
+        "AAA": 135.39,
+        "AAAA": 129.19
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 41.79,
+        "BB": 38.79,
+        "A": 35.79,
+        "AA": 34.29,
+        "AAA": 32.79,
+        "AAAA": 31.29
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 89.49,
+        "BB": 83.09,
+        "A": 76.69,
+        "AA": 73.49,
+        "AAA": 70.29,
+        "AAAA": 67.09
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 194.49,
+        "BB": 180.59,
+        "A": 166.69,
+        "AA": 159.79,
+        "AAA": 152.79,
+        "AAAA": 145.89
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 35.69,
+        "BB": 33.09,
+        "A": 30.59,
+        "AA": 29.29,
+        "AAA": 27.99,
+        "AAAA": 26.79
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 76.79,
+        "BB": 71.29,
+        "A": 65.79,
+        "AA": 63.09,
+        "AAA": 60.29,
+        "AAAA": 57.59
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 171.69,
+        "BB": 159.49,
+        "A": 147.19,
+        "AA": 141.09,
+        "AAA": 134.89,
+        "AAAA": 128.79
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 32.89,
+        "BB": 30.59,
+        "A": 28.19,
+        "AA": 26.99,
+        "AAA": 25.89,
+        "AAAA": 24.69
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 71.79,
+        "BB": 66.69,
+        "A": 61.49,
+        "AA": 58.99,
+        "AAA": 56.39,
+        "AAAA": 53.79
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 156.59,
+        "BB": 145.39,
+        "A": 134.29,
+        "AA": 128.69,
+        "AAA": 123.09,
+        "AAAA": 117.49
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 334.09,
+        "BB": 310.19,
+        "A": 286.39,
+        "AA": 274.39,
+        "AAA": 262.49,
+        "AAAA": 250.59
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 693.99,
+        "BB": 644.39,
+        "A": 594.79,
+        "AA": 569.99,
+        "AAA": 545.29,
+        "AAAA": 520.49
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 1328.29,
+        "BB": 1233.39,
+        "A": 1138.49,
+        "AA": 1091.09,
+        "AAA": 1043.59,
+        "AAAA": 996.19
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 176.19,
+        "BB": 163.59,
+        "A": 150.99,
+        "AA": 144.69,
+        "AAA": 138.39,
+        "AAAA": 132.09
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 374.69,
+        "BB": 347.99,
+        "A": 321.19,
+        "AA": 307.79,
+        "AAA": 294.39,
+        "AAAA": 281.09
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 35.09,
+        "BB": 32.59,
+        "A": 30.09,
+        "AA": 28.79,
+        "AAA": 27.59,
+        "AAAA": 26.29
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 74.59,
+        "BB": 69.29,
+        "A": 63.99,
+        "AA": 61.29,
+        "AAA": 58.59,
+        "AAAA": 55.99
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 163.09,
+        "BB": 151.49,
+        "A": 139.79,
+        "AA": 133.99,
+        "AAA": 128.19,
+        "AAAA": 122.39
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 40.49,
+        "BB": 37.59,
+        "A": 34.69,
+        "AA": 33.29,
+        "AAA": 31.79,
+        "AAAA": 30.39
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 84.99,
+        "BB": 78.89,
+        "A": 72.79,
+        "AA": 69.79,
+        "AAA": 66.79,
+        "AAAA": 63.69
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 184.59,
+        "BB": 171.39,
+        "A": 158.29,
+        "AA": 151.69,
+        "AAA": 145.09,
+        "AAAA": 138.49
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 34.89,
+        "BB": 32.39,
+        "A": 29.89,
+        "AA": 28.59,
+        "AAA": 27.39,
+        "AAAA": 26.19
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 74.29,
+        "BB": 68.99,
+        "A": 63.69,
+        "AA": 60.99,
+        "AAA": 58.39,
+        "AAAA": 55.69
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 165.99,
+        "BB": 154.19,
+        "A": 142.29,
+        "AA": 136.39,
+        "AAA": 130.39,
+        "AAAA": 124.49
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 31.19,
+        "BB": 28.99,
+        "A": 26.79,
+        "AA": 25.69,
+        "AAA": 24.59,
+        "AAAA": 23.39
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 68.49,
+        "BB": 63.69,
+        "A": 58.79,
+        "AA": 56.29,
+        "AAA": 53.89,
+        "AAAA": 51.39
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 150.29,
+        "BB": 139.59,
+        "A": 128.89,
+        "AA": 123.49,
+        "AAA": 118.09,
+        "AAAA": 112.79
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 322.39,
+        "BB": 299.39,
+        "A": 276.29,
+        "AA": 264.79,
+        "AAA": 253.29,
+        "AAAA": 241.79
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 675.29,
+        "BB": 627.09,
+        "A": 578.89,
+        "AA": 554.79,
+        "AAA": 530.59,
+        "AAAA": 506.49
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 1278.89,
+        "BB": 1187.59,
+        "A": 1096.19,
+        "AA": 1050.49,
+        "AAA": 1004.89,
+        "AAAA": 959.19
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 166.79,
+        "BB": 154.89,
+        "A": 142.99,
+        "AA": 136.99,
+        "AAA": 131.09,
+        "AAAA": 125.09
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 355.99,
+        "BB": 330.59,
+        "A": 305.19,
+        "AA": 292.39,
+        "AAA": 279.69,
+        "AAAA": 266.99
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 31.79,
+        "BB": 29.49,
+        "A": 27.19,
+        "AA": 26.09,
+        "AAA": 24.99,
+        "AAAA": 23.79
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 67.49,
+        "BB": 62.69,
+        "A": 57.89,
+        "AA": 55.49,
+        "AAA": 53.09,
+        "AAAA": 50.69
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 147.59,
+        "BB": 137.09,
+        "A": 126.59,
+        "AA": 121.29,
+        "AAA": 115.99,
+        "AAAA": 110.69
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 36.69,
+        "BB": 34.09,
+        "A": 31.39,
+        "AA": 30.09,
+        "AAA": 28.79,
+        "AAAA": 27.49
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 76.89,
+        "BB": 71.39,
+        "A": 65.89,
+        "AA": 63.19,
+        "AAA": 60.39,
+        "AAAA": 57.69
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 167.09,
+        "BB": 155.19,
+        "A": 143.19,
+        "AA": 137.29,
+        "AAA": 131.29,
+        "AAAA": 125.29
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 31.59,
+        "BB": 29.29,
+        "A": 27.09,
+        "AA": 25.89,
+        "AAA": 24.79,
+        "AAAA": 23.69
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 67.19,
+        "BB": 62.39,
+        "A": 57.59,
+        "AA": 55.19,
+        "AAA": 52.79,
+        "AAAA": 50.39
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 150.19,
+        "BB": 139.49,
+        "A": 128.79,
+        "AA": 123.39,
+        "AAA": 118.09,
+        "AAAA": 112.69
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 28.29,
+        "BB": 26.29,
+        "A": 24.19,
+        "AA": 23.19,
+        "AAA": 22.19,
+        "AAAA": 21.19
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 61.99,
+        "BB": 57.59,
+        "A": 53.19,
+        "AA": 50.99,
+        "AAA": 48.79,
+        "AAAA": 46.49
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 135.99,
+        "BB": 126.29,
+        "A": 116.59,
+        "AA": 111.79,
+        "AAA": 106.89,
+        "AAAA": 101.99
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 500,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 368.39,
+        "BB": 342.09,
+        "A": 315.79,
+        "AA": 302.69,
+        "AAA": 289.49,
+        "AAAA": 276.29
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 1000,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 771.79,
+        "BB": 716.69,
+        "A": 661.59,
+        "AA": 633.99,
+        "AAA": 606.39,
+        "AAAA": 578.89
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 1650,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 1286.59,
+        "BB": 1194.69,
+        "A": 1102.79,
+        "AA": 1056.89,
+        "AAA": 1010.89,
+        "AAAA": 964.99
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 150.89,
+        "BB": 140.19,
+        "A": 129.39,
+        "AA": 123.99,
+        "AAA": 118.59,
+        "AAAA": 113.19
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 322.19,
+        "BB": 299.19,
+        "A": 276.19,
+        "AA": 264.69,
+        "AAA": 253.19,
+        "AAAA": 241.59
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 41.19,
+        "BB": 38.29,
+        "A": 35.29,
+        "AA": 33.89,
+        "AAA": 32.39,
+        "AAAA": 30.89
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 86.89,
+        "BB": 80.69,
+        "A": 74.49,
+        "AA": 71.39,
+        "AAA": 68.29,
+        "AAAA": 65.19
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 186.79,
+        "BB": 173.39,
+        "A": 160.09,
+        "AA": 153.39,
+        "AAA": 146.79,
+        "AAAA": 140.09
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 46.19,
+        "BB": 42.89,
+        "A": 39.59,
+        "AA": 37.89,
+        "AAA": 36.29,
+        "AAAA": 34.59
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 98.59,
+        "BB": 91.59,
+        "A": 84.49,
+        "AA": 80.99,
+        "AAA": 77.49,
+        "AAAA": 73.99
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 212.49,
+        "BB": 197.29,
+        "A": 182.09,
+        "AA": 174.49,
+        "AAA": 166.99,
+        "AAAA": 159.39
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 38.99,
+        "BB": 36.19,
+        "A": 33.49,
+        "AA": 32.09,
+        "AAA": 30.69,
+        "AAAA": 29.29
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 84.29,
+        "BB": 78.29,
+        "A": 72.29,
+        "AA": 69.29,
+        "AAA": 66.29,
+        "AAAA": 63.29
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 187.79,
+        "BB": 174.39,
+        "A": 160.99,
+        "AA": 154.29,
+        "AAA": 147.59,
+        "AAAA": 140.89
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 36.09,
+        "BB": 33.49,
+        "A": 30.89,
+        "AA": 29.59,
+        "AAA": 28.29,
+        "AAAA": 27.09
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 78.39,
+        "BB": 72.79,
+        "A": 67.19,
+        "AA": 64.39,
+        "AAA": 61.59,
+        "AAAA": 58.79
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 169.19,
+        "BB": 157.09,
+        "A": 145.09,
+        "AA": 138.99,
+        "AAA": 132.99,
+        "AAAA": 126.89
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 355.19,
+        "BB": 329.89,
+        "A": 304.49,
+        "AA": 291.79,
+        "AAA": 279.09,
+        "AAAA": 266.39
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 737.79,
+        "BB": 685.09,
+        "A": 632.39,
+        "AA": 605.99,
+        "AAA": 579.69,
+        "AAAA": 553.29
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 1413.49,
+        "BB": 1312.49,
+        "A": 1211.59,
+        "AA": 1161.09,
+        "AAA": 1110.59,
+        "AAAA": 1060.09
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 191.19,
+        "BB": 177.49,
+        "A": 163.89,
+        "AA": 156.99,
+        "AAA": 150.19,
+        "AAAA": 143.39
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 404.69,
+        "BB": 375.79,
+        "A": 346.89,
+        "AA": 332.49,
+        "AAA": 317.99,
+        "AAAA": 303.59
+      },
+      "page": 11
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 38.89,
+        "BB": 36.19,
+        "A": 33.39,
+        "AA": 31.99,
+        "AAA": 30.59,
+        "AAAA": 29.19
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 82.59,
+        "BB": 76.69,
+        "A": 70.79,
+        "AA": 67.79,
+        "AAA": 64.89,
+        "AAAA": 61.99
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 179.29,
+        "BB": 166.49,
+        "A": 153.69,
+        "AA": 147.29,
+        "AAA": 140.89,
+        "AAAA": 134.49
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 45.39,
+        "BB": 42.19,
+        "A": 38.89,
+        "AA": 37.29,
+        "AAA": 35.69,
+        "AAAA": 34.09
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 94.99,
+        "BB": 88.19,
+        "A": 81.39,
+        "AA": 77.99,
+        "AAA": 74.59,
+        "AAAA": 71.19
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 205.49,
+        "BB": 190.89,
+        "A": 176.19,
+        "AA": 168.79,
+        "AAA": 161.49,
+        "AAAA": 154.19
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 38.39,
+        "BB": 35.59,
+        "A": 32.89,
+        "AA": 31.49,
+        "AAA": 30.19,
+        "AAAA": 28.79
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 82.19,
+        "BB": 76.29,
+        "A": 70.39,
+        "AA": 67.49,
+        "AAA": 64.59,
+        "AAAA": 61.59
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 183.19,
+        "BB": 170.09,
+        "A": 157.09,
+        "AA": 150.49,
+        "AAA": 143.99,
+        "AAAA": 137.39
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 35.09,
+        "BB": 32.59,
+        "A": 30.09,
+        "AA": 28.89,
+        "AAA": 27.59,
+        "AAAA": 26.39
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 75.99,
+        "BB": 70.49,
+        "A": 65.09,
+        "AA": 62.39,
+        "AAA": 59.69,
+        "AAAA": 56.99
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 164.69,
+        "BB": 152.89,
+        "A": 141.19,
+        "AA": 135.29,
+        "AAA": 129.39,
+        "AAAA": 123.49
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 350.89,
+        "BB": 325.79,
+        "A": 300.79,
+        "AA": 288.19,
+        "AAA": 275.69,
+        "AAAA": 263.19
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 728.79,
+        "BB": 676.79,
+        "A": 624.69,
+        "AA": 598.69,
+        "AAA": 572.69,
+        "AAAA": 546.59
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 1387.49,
+        "BB": 1288.39,
+        "A": 1189.29,
+        "AA": 1139.79,
+        "AAA": 1090.19,
+        "AAAA": 1040.69
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 183.59,
+        "BB": 170.49,
+        "A": 157.39,
+        "AA": 150.79,
+        "AAA": 144.29,
+        "AAAA": 137.69
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 392.29,
+        "BB": 364.29,
+        "A": 336.29,
+        "AA": 322.29,
+        "AAA": 308.19,
+        "AAAA": 294.19
+      },
+      "page": 7
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 35.29,
+        "BB": 32.69,
+        "A": 30.19,
+        "AA": 28.99,
+        "AAA": 27.69,
+        "AAAA": 26.49
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 74.69,
+        "BB": 69.39,
+        "A": 64.09,
+        "AA": 61.39,
+        "AAA": 58.69,
+        "AAAA": 56.09
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 162.19,
+        "BB": 150.59,
+        "A": 139.09,
+        "AA": 133.29,
+        "AAA": 127.49,
+        "AAAA": 121.69
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 41.09,
+        "BB": 38.19,
+        "A": 35.19,
+        "AA": 33.79,
+        "AAA": 32.29,
+        "AAAA": 30.79
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 85.89,
+        "BB": 79.79,
+        "A": 73.69,
+        "AA": 70.59,
+        "AAA": 67.49,
+        "AAAA": 64.49
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 185.99,
+        "BB": 172.69,
+        "A": 159.39,
+        "AA": 152.79,
+        "AAA": 146.19,
+        "AAAA": 139.49
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 34.69,
+        "BB": 32.29,
+        "A": 29.79,
+        "AA": 28.59,
+        "AAA": 27.29,
+        "AAAA": 26.09
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 74.39,
+        "BB": 69.09,
+        "A": 63.79,
+        "AA": 61.09,
+        "AAA": 58.39,
+        "AAAA": 55.79
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 165.79,
+        "BB": 153.99,
+        "A": 142.09,
+        "AA": 136.19,
+        "AAA": 130.29,
+        "AAAA": 124.39
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 31.79,
+        "BB": 29.49,
+        "A": 27.29,
+        "AA": 26.09,
+        "AAA": 24.99,
+        "AAAA": 23.89
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 68.79,
+        "BB": 63.79,
+        "A": 58.89,
+        "AA": 56.49,
+        "AAA": 53.99,
+        "AAAA": 51.59
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 148.99,
+        "BB": 138.39,
+        "A": 127.69,
+        "AA": 122.39,
+        "AAA": 117.09,
+        "AAAA": 111.79
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 500,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 400.99,
+        "BB": 372.39,
+        "A": 343.69,
+        "AA": 329.39,
+        "AAA": 315.09,
+        "AAAA": 300.79
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 1000,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 832.89,
+        "BB": 773.49,
+        "A": 713.99,
+        "AA": 684.19,
+        "AAA": 654.49,
+        "AAAA": 624.69
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 1650,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 1395.89,
+        "BB": 1296.19,
+        "A": 1196.49,
+        "AA": 1146.69,
+        "AAA": 1096.79,
+        "AAAA": 1046.89
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 166.19,
+        "BB": 154.29,
+        "A": 142.39,
+        "AA": 136.49,
+        "AAA": 130.59,
+        "AAAA": 124.59
+      },
+      "page": 3
+    },
+    {
+      "age_group": "15-16",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 354.99,
+        "BB": 329.69,
+        "A": 304.29,
+        "AA": 291.59,
+        "AAA": 278.99,
+        "AAAA": 266.29
+      },
+      "page": 3
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 36.79,
+        "BB": 34.19,
+        "A": 31.59,
+        "AA": 30.29,
+        "AAA": 28.99,
+        "AAAA": 27.59
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 77.49,
+        "BB": 71.99,
+        "A": 66.49,
+        "AA": 63.69,
+        "AAA": 60.89,
+        "AAAA": 58.19
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 169.19,
+        "BB": 157.09,
+        "A": 144.99,
+        "AA": 138.99,
+        "AAA": 132.89,
+        "AAAA": 126.89
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 40.29,
+        "BB": 37.49,
+        "A": 34.59,
+        "AA": 33.09,
+        "AAA": 31.69,
+        "AAAA": 30.29
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 86.69,
+        "BB": 80.59,
+        "A": 74.39,
+        "AA": 71.29,
+        "AAA": 68.19,
+        "AAAA": 65.09
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 189.19,
+        "BB": 175.69,
+        "A": 162.19,
+        "AA": 155.39,
+        "AAA": 148.59,
+        "AAAA": 141.89
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 34.59,
+        "BB": 32.09,
+        "A": 29.69,
+        "AA": 28.39,
+        "AAA": 27.19,
+        "AAAA": 25.99
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 74.59,
+        "BB": 69.29,
+        "A": 63.99,
+        "AA": 61.29,
+        "AAA": 58.69,
+        "AAAA": 55.99
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 166.99,
+        "BB": 155.09,
+        "A": 143.19,
+        "AA": 137.19,
+        "AAA": 131.29,
+        "AAAA": 125.29
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 31.89,
+        "BB": 29.59,
+        "A": 27.39,
+        "AA": 26.19,
+        "AAA": 25.09,
+        "AAAA": 23.99
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 69.89,
+        "BB": 64.89,
+        "A": 59.89,
+        "AA": 57.39,
+        "AAA": 54.89,
+        "AAAA": 52.39
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 152.89,
+        "BB": 141.99,
+        "A": 131.09,
+        "AA": 125.59,
+        "AAA": 120.09,
+        "AAAA": 114.69
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 326.49,
+        "BB": 303.09,
+        "A": 279.79,
+        "AA": 268.19,
+        "AAA": 256.49,
+        "AAAA": 244.89
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 677.89,
+        "BB": 629.49,
+        "A": 581.09,
+        "AA": 556.89,
+        "AAA": 532.69,
+        "AAAA": 508.49
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 1305.79,
+        "BB": 1212.49,
+        "A": 1119.29,
+        "AA": 1072.59,
+        "AAA": 1025.99,
+        "AAAA": 979.39
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 171.89,
+        "BB": 159.59,
+        "A": 147.39,
+        "AA": 141.19,
+        "AAA": 135.09,
+        "AAAA": 128.99
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 367.59,
+        "BB": 341.29,
+        "A": 315.09,
+        "AA": 301.89,
+        "AAA": 288.79,
+        "AAAA": 275.69
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 33.99,
+        "BB": 31.59,
+        "A": 29.09,
+        "AA": 27.89,
+        "AAA": 26.69,
+        "AAAA": 25.49
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 72.09,
+        "BB": 66.89,
+        "A": 61.79,
+        "AA": 59.19,
+        "AAA": 56.59,
+        "AAAA": 54.09
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 158.99,
+        "BB": 147.59,
+        "A": 136.29,
+        "AA": 130.59,
+        "AAA": 124.89,
+        "AAAA": 119.29
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 39.09,
+        "BB": 36.39,
+        "A": 33.59,
+        "AA": 32.19,
+        "AAA": 30.79,
+        "AAAA": 29.39
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 82.49,
+        "BB": 76.59,
+        "A": 70.69,
+        "AA": 67.79,
+        "AAA": 64.89,
+        "AAAA": 61.89
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 179.29,
+        "BB": 166.49,
+        "A": 153.69,
+        "AA": 147.29,
+        "AAA": 140.89,
+        "AAAA": 134.49
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 33.79,
+        "BB": 31.39,
+        "A": 28.99,
+        "AA": 27.79,
+        "AAA": 26.59,
+        "AAAA": 25.39
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 72.29,
+        "BB": 67.09,
+        "A": 61.99,
+        "AA": 59.39,
+        "AAA": 56.79,
+        "AAAA": 54.19
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 161.79,
+        "BB": 150.19,
+        "A": 138.69,
+        "AA": 132.89,
+        "AAA": 127.09,
+        "AAAA": 121.39
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 30.39,
+        "BB": 28.29,
+        "A": 26.09,
+        "AA": 24.99,
+        "AAA": 23.89,
+        "AAAA": 22.79
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 66.69,
+        "BB": 61.89,
+        "A": 57.19,
+        "AA": 54.79,
+        "AAA": 52.39,
+        "AAAA": 49.99
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 147.59,
+        "BB": 137.09,
+        "A": 126.49,
+        "AA": 121.29,
+        "AAA": 115.99,
+        "AAAA": 110.69
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 317.79,
+        "BB": 295.09,
+        "A": 272.39,
+        "AA": 261.09,
+        "AAA": 249.69,
+        "AAAA": 238.39
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 665.19,
+        "BB": 617.69,
+        "A": 570.19,
+        "AA": 546.39,
+        "AAA": 522.69,
+        "AAAA": 498.89
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 1261.39,
+        "BB": 1171.29,
+        "A": 1081.19,
+        "AA": 1036.19,
+        "AAA": 991.09,
+        "AAAA": 946.09
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 162.89,
+        "BB": 151.29,
+        "A": 139.59,
+        "AA": 133.79,
+        "AAA": 127.99,
+        "AAAA": 122.19
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 350.69,
+        "BB": 325.59,
+        "A": 300.59,
+        "AA": 288.09,
+        "AAA": 275.49,
+        "AAAA": 262.99
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 30.79,
+        "BB": 28.59,
+        "A": 26.39,
+        "AA": 25.29,
+        "AAA": 24.19,
+        "AAAA": 23.09
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 65.19,
+        "BB": 60.59,
+        "A": 55.89,
+        "AA": 53.59,
+        "AAA": 51.29,
+        "AAAA": 48.89
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 143.89,
+        "BB": 133.59,
+        "A": 123.29,
+        "AA": 118.19,
+        "AAA": 113.09,
+        "AAAA": 107.89
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 35.39,
+        "BB": 32.89,
+        "A": 30.39,
+        "AA": 29.09,
+        "AAA": 27.89,
+        "AAAA": 26.59
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 74.69,
+        "BB": 69.39,
+        "A": 63.99,
+        "AA": 61.39,
+        "AAA": 58.69,
+        "AAAA": 55.99
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 162.29,
+        "BB": 150.69,
+        "A": 139.09,
+        "AA": 133.29,
+        "AAA": 127.49,
+        "AAAA": 121.69
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 30.59,
+        "BB": 28.39,
+        "A": 26.19,
+        "AA": 25.09,
+        "AAA": 23.99,
+        "AAAA": 22.99
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 65.39,
+        "BB": 60.79,
+        "A": 56.09,
+        "AA": 53.69,
+        "AAA": 51.39,
+        "AAAA": 49.09
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 146.39,
+        "BB": 135.99,
+        "A": 125.49,
+        "AA": 120.29,
+        "AAA": 115.09,
+        "AAAA": 109.79
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 27.59,
+        "BB": 25.59,
+        "A": 23.59,
+        "AA": 22.59,
+        "AAA": 21.69,
+        "AAAA": 20.69
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 60.29,
+        "BB": 55.99,
+        "A": 51.69,
+        "AA": 49.59,
+        "AAA": 47.39,
+        "AAAA": 45.29
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 133.59,
+        "BB": 123.99,
+        "A": 114.49,
+        "AA": 109.69,
+        "AAA": 104.99,
+        "AAAA": 100.19
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 500,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 363.19,
+        "BB": 337.29,
+        "A": 311.39,
+        "AA": 298.39,
+        "AAA": 285.39,
+        "AAAA": 272.39
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 1000,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 760.19,
+        "BB": 705.89,
+        "A": 651.59,
+        "AA": 624.49,
+        "AAA": 597.29,
+        "AAAA": 570.19
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 1650,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 1268.99,
+        "BB": 1178.39,
+        "A": 1087.69,
+        "AA": 1042.39,
+        "AAA": 997.09,
+        "AAAA": 951.79
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 147.39,
+        "BB": 136.89,
+        "A": 126.39,
+        "AA": 121.09,
+        "AAA": 115.89,
+        "AAAA": 110.59
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Boys",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 317.39,
+        "BB": 294.69,
+        "A": 271.99,
+        "AA": 260.69,
+        "AAA": 249.39,
+        "AAAA": 237.99
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 40.99,
+        "BB": 38.09,
+        "A": 35.09,
+        "AA": 33.69,
+        "AAA": 32.19,
+        "AAAA": 30.79
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 85.89,
+        "BB": 79.79,
+        "A": 73.69,
+        "AA": 70.59,
+        "AAA": 67.49,
+        "AAAA": 64.49
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "LCM",
+      "standards": {
+        "B": 185.79,
+        "BB": 172.49,
+        "A": 159.19,
+        "AA": 152.59,
+        "AAA": 145.99,
+        "AAAA": 139.29
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 45.59,
+        "BB": 42.29,
+        "A": 39.09,
+        "AA": 37.49,
+        "AAA": 35.79,
+        "AAAA": 34.19
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 97.49,
+        "BB": 90.49,
+        "A": 83.59,
+        "AA": 80.09,
+        "AAA": 76.59,
+        "AAAA": 73.09
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "LCM",
+      "standards": {
+        "B": 209.89,
+        "BB": 194.99,
+        "A": 179.99,
+        "AA": 172.49,
+        "AAA": 164.99,
+        "AAAA": 157.49
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 38.39,
+        "BB": 35.59,
+        "A": 32.89,
+        "AA": 31.49,
+        "AAA": 30.19,
+        "AAAA": 28.79
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 83.59,
+        "BB": 77.69,
+        "A": 71.69,
+        "AA": 68.69,
+        "AAA": 65.69,
+        "AAAA": 62.69
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "LCM",
+      "standards": {
+        "B": 184.49,
+        "BB": 171.39,
+        "A": 158.19,
+        "AA": 151.59,
+        "AAA": 144.99,
+        "AAAA": 138.39
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 35.89,
+        "BB": 33.29,
+        "A": 30.69,
+        "AA": 29.49,
+        "AAA": 28.19,
+        "AAAA": 26.89
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 77.69,
+        "BB": 72.19,
+        "A": 66.59,
+        "AA": 63.89,
+        "AAA": 61.09,
+        "AAAA": 58.29
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 167.69,
+        "BB": 155.69,
+        "A": 143.69,
+        "AA": 137.69,
+        "AAA": 131.69,
+        "AAAA": 125.79
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 353.39,
+        "BB": 328.19,
+        "A": 302.99,
+        "AA": 290.29,
+        "AAA": 277.69,
+        "AAAA": 265.09
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 730.29,
+        "BB": 678.19,
+        "A": 625.99,
+        "AA": 599.89,
+        "AAA": 573.79,
+        "AAAA": 547.79
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "LCM",
+      "standards": {
+        "B": 1400.89,
+        "BB": 1300.79,
+        "A": 1200.79,
+        "AA": 1150.79,
+        "AAA": 1100.69,
+        "AAAA": 1050.69
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 189.29,
+        "BB": 175.79,
+        "A": 162.29,
+        "AA": 155.49,
+        "AAA": 148.79,
+        "AAAA": 141.99
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "LCM",
+      "standards": {
+        "B": 400.29,
+        "BB": 371.69,
+        "A": 343.09,
+        "AA": 328.79,
+        "AAA": 314.49,
+        "AAAA": 300.29
+      },
+      "page": 12
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 38.19,
+        "BB": 35.49,
+        "A": 32.79,
+        "AA": 31.39,
+        "AAA": 30.09,
+        "AAAA": 28.69
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 81.09,
+        "BB": 75.29,
+        "A": 69.49,
+        "AA": 66.59,
+        "AAA": 63.69,
+        "AAAA": 60.79
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCM",
+      "standards": {
+        "B": 175.39,
+        "BB": 162.89,
+        "A": 150.39,
+        "AA": 144.09,
+        "AAA": 137.79,
+        "AAAA": 131.59
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 44.59,
+        "BB": 41.39,
+        "A": 38.29,
+        "AA": 36.69,
+        "AAA": 35.09,
+        "AAAA": 33.49
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 93.69,
+        "BB": 87.09,
+        "A": 80.39,
+        "AA": 76.99,
+        "AAA": 73.69,
+        "AAAA": 70.29
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCM",
+      "standards": {
+        "B": 204.09,
+        "BB": 189.49,
+        "A": 174.89,
+        "AA": 167.59,
+        "AAA": 160.39,
+        "AAAA": 153.09
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 38.09,
+        "BB": 35.39,
+        "A": 32.59,
+        "AA": 31.29,
+        "AAA": 29.89,
+        "AAAA": 28.59
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 81.29,
+        "BB": 75.49,
+        "A": 69.69,
+        "AA": 66.79,
+        "AAA": 63.89,
+        "AAAA": 60.99
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCM",
+      "standards": {
+        "B": 179.89,
+        "BB": 166.99,
+        "A": 154.19,
+        "AA": 147.69,
+        "AAA": 141.29,
+        "AAAA": 134.89
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 34.69,
+        "BB": 32.19,
+        "A": 29.69,
+        "AA": 28.49,
+        "AAA": 27.19,
+        "AAAA": 25.99
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 75.19,
+        "BB": 69.89,
+        "A": 64.49,
+        "AA": 61.79,
+        "AAA": 59.09,
+        "AAAA": 56.39
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 162.69,
+        "BB": 151.09,
+        "A": 139.39,
+        "AA": 133.59,
+        "AAA": 127.79,
+        "AAAA": 121.99
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 346.89,
+        "BB": 322.19,
+        "A": 297.39,
+        "AA": 284.99,
+        "AAA": 272.59,
+        "AAAA": 260.19
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 800,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 722.79,
+        "BB": 671.19,
+        "A": 619.59,
+        "AA": 593.69,
+        "AAA": 567.89,
+        "AAAA": 542.09
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 1500,
+      "stroke": "FR",
+      "course": "SCM",
+      "standards": {
+        "B": 1358.99,
+        "BB": 1261.99,
+        "A": 1164.89,
+        "AA": 1116.39,
+        "AAA": 1067.79,
+        "AAAA": 1019.29
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 180.69,
+        "BB": 167.79,
+        "A": 154.89,
+        "AA": 148.49,
+        "AAA": 141.99,
+        "AAAA": 135.59
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCM",
+      "standards": {
+        "B": 387.49,
+        "BB": 359.79,
+        "A": 332.09,
+        "AA": 318.29,
+        "AAA": 304.49,
+        "AAAA": 290.59
+      },
+      "page": 8
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 34.59,
+        "BB": 32.19,
+        "A": 29.69,
+        "AA": 28.39,
+        "AAA": 27.19,
+        "AAAA": 25.99
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 73.39,
+        "BB": 68.09,
+        "A": 62.89,
+        "AA": 60.29,
+        "AAA": 57.69,
+        "AAAA": 54.99
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BK",
+      "course": "SCY",
+      "standards": {
+        "B": 158.79,
+        "BB": 147.39,
+        "A": 136.09,
+        "AA": 130.39,
+        "AAA": 124.79,
+        "AAAA": 119.09
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 40.39,
+        "BB": 37.49,
+        "A": 34.59,
+        "AA": 33.19,
+        "AAA": 31.69,
+        "AAAA": 30.29
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 84.79,
+        "BB": 78.79,
+        "A": 72.69,
+        "AA": 69.69,
+        "AAA": 66.69,
+        "AAAA": 63.59
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "BR",
+      "course": "SCY",
+      "standards": {
+        "B": 184.69,
+        "BB": 171.49,
+        "A": 158.29,
+        "AA": 151.69,
+        "AAA": 145.09,
+        "AAAA": 138.49
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 34.49,
+        "BB": 31.99,
+        "A": 29.59,
+        "AA": 28.29,
+        "AAA": 27.09,
+        "AAAA": 25.89
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 73.59,
+        "BB": 68.29,
+        "A": 63.09,
+        "AA": 60.39,
+        "AAA": 57.79,
+        "AAAA": 55.19
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FL",
+      "course": "SCY",
+      "standards": {
+        "B": 162.79,
+        "BB": 151.19,
+        "A": 139.49,
+        "AA": 133.69,
+        "AAA": 127.89,
+        "AAAA": 122.09
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 50,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 31.39,
+        "BB": 29.09,
+        "A": 26.89,
+        "AA": 25.79,
+        "AAA": 24.69,
+        "AAAA": 23.49
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 100,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 68.09,
+        "BB": 63.19,
+        "A": 58.39,
+        "AA": 55.89,
+        "AAA": 53.49,
+        "AAAA": 51.09
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 147.19,
+        "BB": 136.69,
+        "A": 126.19,
+        "AA": 120.89,
+        "AAA": 115.69,
+        "AAAA": 110.39
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 500,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 396.49,
+        "BB": 368.19,
+        "A": 339.89,
+        "AA": 325.69,
+        "AAA": 311.59,
+        "AAAA": 297.39
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 1000,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 826.09,
+        "BB": 767.09,
+        "A": 708.09,
+        "AA": 678.59,
+        "AAA": 649.09,
+        "AAAA": 619.59
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 1650,
+      "stroke": "FR",
+      "course": "SCY",
+      "standards": {
+        "B": 1367.19,
+        "BB": 1269.59,
+        "A": 1171.89,
+        "AA": 1123.09,
+        "AAA": 1074.29,
+        "AAAA": 1025.39
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 200,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 163.59,
+        "BB": 151.89,
+        "A": 140.19,
+        "AA": 134.39,
+        "AAA": 128.49,
+        "AAAA": 122.69
+      },
+      "page": 4
+    },
+    {
+      "age_group": "17-18",
+      "gender": "Girls",
+      "distance": 400,
+      "stroke": "IM",
+      "course": "SCY",
+      "standards": {
+        "B": 350.69,
+        "BB": 325.59,
+        "A": 300.59,
+        "AA": 287.99,
+        "AAA": 275.49,
+        "AAAA": 262.99
+      },
+      "page": 4
+    }
+  ]
+}
