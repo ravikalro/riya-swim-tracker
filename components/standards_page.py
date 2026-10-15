@@ -197,11 +197,10 @@ def _render_table(rows, age_group: str) -> None:
                 "Event": r["event"],
                 "Course": r["course"],
                 "⭐ Your Best": r["pb_display"],
-                "Date": r["pb_date"].strftime("%b %d, %Y") if pd.notna(r["pb_date"]) else "",
+                "Time to drop": delta_txt,
                 "Level": achieved,
                 **{lv: _fmt(r["standards"][lv]) for lv in LEVELS},
-                "🎯 Your next milestone": next_txt,
-                "Time to drop": delta_txt,
+                "Date": r["pb_date"].strftime("%b %d, %Y") if pd.notna(r["pb_date"]) else "",
             }
         )
     df = pd.DataFrame(display)
@@ -215,15 +214,6 @@ def _render_table(rows, age_group: str) -> None:
                 level.startswith("🏆") and lv == "AAAA"
             ):
                 styles[col] = "background-color: #ffe9a8; font-weight: bold"
-        try:
-            nxt = row["🎯 Your next milestone"].split()[-1]
-            if nxt in LEVELS:
-                styles[df.columns.get_loc(nxt)] = (
-                    styles[df.columns.get_loc(nxt)]
-                    + "; background-color: #d4ecff"
-                ).lstrip("; ")
-        except Exception:
-            pass
         return styles
 
     st.dataframe(
@@ -232,8 +222,7 @@ def _render_table(rows, age_group: str) -> None:
         hide_index=True,
     )
     st.caption(
-        "🟡 Yellow = the standard you've achieved. 🔵 Blue = your next milestone. "
-        "Lower time = faster = higher level!"
+        "🟡 Yellow = the standard you've achieved. Lower time = faster = higher level!"
     )
 
 
@@ -311,7 +300,8 @@ def _render_detail(eligible: pd.DataFrame, girls_records, age_group: str) -> Non
 
     rec, warn = lookup_standards(girls_records, age_group, "Girls", stroke, distance, course)
     if rec is None:
-        st.warning(f"⚠️ {warn}")
+        if distance != 25:
+            st.warning(f"⚠️ {warn}")
         return
 
     event_df = eligible[

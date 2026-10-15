@@ -207,7 +207,8 @@ def build_comparison(pb_df, records: list[StandardRecord], age_group: str,
             "pb_date": r["date"],
         }
         if rec is None:
-            flags.append(warn or "Unknown mapping problem.")
+            if int(r["distance"]) != 25:
+                flags.append(warn or "Unknown mapping problem.")
             continue
         level = determine_level(float(r["time_seconds"]), rec.standards)
         row = dict(base)

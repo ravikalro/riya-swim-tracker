@@ -34,6 +34,7 @@ def result_filters(df: pd.DataFrame) -> pd.DataFrame:
     meets = sorted(m for m in df["meet"].unique() if m)
 
     sel_strokes = _multiselect("Stroke", strokes)
+    distances = sorted(d for d in distances if int(d) != 25)
     sel_distances = st.sidebar.multiselect(
         "Distance", options=distances, default=distances, format_func=lambda d: f"{int(d)}"
     )

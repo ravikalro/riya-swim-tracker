@@ -120,7 +120,11 @@ def main() -> None:
         return
 
     # --- Main navigation ---
-    tab_dashboard, tab_standards = st.tabs(["🏠 Dashboard", "🎯 Motivational Standards"])
+    tab_standards, tab_dashboard = st.tabs(["🎯 Motivational Standards", "🏠 Dashboard"])
+
+    with tab_standards:
+        standards_page.render_standards_page(swimmer_df)
+        st.divider()
 
     with tab_dashboard:
         filtered = filters.result_filters(swimmer_df)
@@ -147,9 +151,6 @@ def main() -> None:
         charts.render_pb_table(swimmer_df)
         st.divider()
         charts.render_recent_swims(filtered)
-
-    with tab_standards:
-        standards_page.render_standards_page(swimmer_df)
 
     st.caption(
         "Data source: Google Sheets (public link, read-only). "
