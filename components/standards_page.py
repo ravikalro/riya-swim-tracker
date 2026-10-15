@@ -37,7 +37,9 @@ def _fmt(seconds) -> str:
 def _delta_text(seconds) -> str:
     if seconds is None:
         return "—"
-    return f"{seconds:+.2f} s (drop {seconds:.2f}s)"
+    if seconds < 0:
+        return f"{abs(seconds):.2f} s"
+    return f"{seconds:.2f} s"
 
 
 @st.cache_data(show_spinner=False)
